@@ -1,7 +1,8 @@
 /*
  * Guloader malware detection rule
- * By: Lewis Evans
  * Github: https://www.github.com/awesomelewis2007/YARA-Rules
+ * License: GPL-3.0
+ * By: Lewis Evans
 */
 
 rule WIN_PE_identifier {
