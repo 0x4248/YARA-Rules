@@ -1,4 +1,4 @@
-# YARA file
+# YARA rules
 
 This is a repository of YARA files that i have created for malware detection and file analysis.
 
