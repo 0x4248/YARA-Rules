@@ -1,6 +1,6 @@
 /*
  * Rule to detect GCC ELF binaries and Windows PE binaries
- * Github: https://www.github.com/lewisevans2007/YARA-Rules
+ * Github: https://www.github.com/0x4248/YARA-Rules
  * Licence: GNU General Public License v3.0
  * By Lewis Evans
 */
